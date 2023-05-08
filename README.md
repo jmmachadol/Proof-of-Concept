@@ -41,8 +41,8 @@ The specific versions of these libraries used in the project can be found in the
 
 ## License
 
-This project is licensed in accordance with the Open Science policy of Minciencias. See the `LICENSE` file for more information.
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ## Acknowledgments
 
-I would like to thank my thesis advisor, Dr. Nicolás Guarín-Zapata, for their guidance and support throughout this project.
+I would like to thank my thesis advisor, Dr. Nicolás Guarín-Zapata (@nicoguaro), for their guidance and support throughout this project.
