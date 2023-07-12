@@ -20,10 +20,6 @@ In addressing these objectives, the following aspects will be considered:
 3. Optimization: The neural network should be tunable to optimize its performance and accuracy.
 4. Scalability: The approach should be extendable to other types of PDEs and higher dimensions.
 
-## Structure
-
-The repository is organized into the following directories:
-
 
 ## Structure
 
