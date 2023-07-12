@@ -24,9 +24,26 @@ In addressing these objectives, the following aspects will be considered:
 
 The repository is organized into the following directories:
 
-- 
-- 
-- 
+
+## Structure
+
+The repository is organized into the following directories and files:
+
+- `src/` : Contains the source code scripts.
+    - `propuesta_redneuronal.py`: Proposal of the neural network for the resolution of the Poisson equation.
+    - `visualizacion_exploratoria.py`: Visualization of the network's performance.
+    - `bayessearch.py`: Hyperparameter optimization for the neural network using Bayesian search.
+    - `gridsearch.py`: Hyperparameter optimization for the neural network using grid search.
+    - `randomizedsearch.py`: Hyperparameter optimization for the neural network using randomized search.
+    - `fem_1D.py`: Comparison of the network's performance with finite element method in 1D.
+    - `cross_validation.py`: Implementation of cross-validation to assess model performance.
+    - `variado_conjuntos.py`: Variation of the number of data for training the neural network.
+- `results/`: Directory for storing the results of the experiments.
+- `docs/`: Contains additional documentation and notes related to the project.
+- `LICENSE`: Project license file.
+- `README.md`: User guide for understanding and navigating the project.
+- `requirements.yml`: List of dependencies needed to reproduce the coding environment.
+
 
 ## Dependencies
 
